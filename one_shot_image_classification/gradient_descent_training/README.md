@@ -12,7 +12,7 @@
 - `eval` scripts are used to dump a pre-trained model file with a format which is expected by the theory code.
 - the main code file for the experiments for one-shot image classification is `main_icl.py`
 
-### Public code used
+### Acknowledgements
 
 Our codebase includes code from the following repositories:
 
