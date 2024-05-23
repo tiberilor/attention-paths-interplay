@@ -1,4 +1,4 @@
-## Code/Supplemental material 
+## Statistical Mechanics Theory of Transformers
 
 This is the code used to produce experimental results for the arXiv preprint "Dissecting the Interplay of Attention Paths in a Statistical Mechanics Theory of Transformers" 
 
