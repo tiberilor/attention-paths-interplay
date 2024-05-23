@@ -16,7 +16,7 @@
 
 Our codebase includes code from the following repositories:
 
-* This codebase was originally forked and modified from the ViT implementation of [omihub777/ViT-CIFAR](https://github.com/omihub777/ViT-CIFAR). Note that, consequently, our code contains extra options that are not used in our experiments for the paper (e.g., data augmentation).
+* This codebase was originally forked and modified from the ViT implementation of [omihub777/ViT-CIFAR](https://github.com/omihub777/ViT-CIFAR). Note that, consequently, our code contains extra options that are not used in our experiments presented in the paper (e.g., data augmentation).
 
 * Code under `torchmeta_local` are forked and modified from [tristandeleu/pytorch-meta](https://github.com/tristandeleu/pytorch-meta) as a standard few-shot learning data preparation/processing and dataloader pipeline.
 
