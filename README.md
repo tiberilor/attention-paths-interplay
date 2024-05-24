@@ -1,6 +1,6 @@
 ## Statistical Mechanics Theory of Transformers
 
-This is the code used to produce experimental results for the arXiv preprint "Dissecting the Interplay of Attention Paths in a Statistical Mechanics Theory of Transformers" 
+This is the code used to produce experimental results for the paper "Dissecting the Interplay of Attention Paths in a Statistical Mechanics Theory of Transformers" 
 
 The code is organized into two main folders, one for each experiment presented in the paper, i.e. hidden markov chain 
 classification, and one-shot image classification. Inside each folder, we give the code and instructions to reproduce 
